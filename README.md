@@ -1,2 +1,2 @@
 # encriptador-de-texto
-Primera edición del encriptadorde texto.
+Primera edición del encriptador de texto.
